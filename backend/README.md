@@ -4,12 +4,12 @@ A Spring Boot REST API that converts long URLs into short, shareable URLs and re
 
 ## Features
 
-- ✨ **URL Shortening** - Convert long URLs into short, memorable codes
-- 🔗 **URL Redirection** - Redirect from short URL to original destination
-- 📊 **Click Tracking** - Track number of times each shortened URL is accessed
-- 🚀 **REST APIs** - Clean, RESTful API endpoints
-- 💾 **H2 Database** - In-memory database for development (easily switchable to MySQL/PostgreSQL)
-- 🏗️ **Spring Boot** - Modern, production-ready Spring Boot application
+-  **URL Shortening** - Convert long URLs into short, memorable codes
+-  **URL Redirection** - Redirect from short URL to original destination
+-  **Click Tracking** - Track number of times each shortened URL is accessed
+-  **REST APIs** - Clean, RESTful API endpoints
+-  **H2 Database** - In-memory database for development (easily switchable to MySQL/PostgreSQL)
+-  **Spring Boot** - Modern, production-ready Spring Boot application
 
 ## Technologies Used
 
@@ -242,16 +242,16 @@ logging.level.com.janavani.backend=DEBUG
 
 ## Future Enhancements
 
-- 🔐 **User Authentication** - User accounts and API keys
-- 🗂️ **Custom Aliases** - Allow users to create custom short codes
-- ⏰ **URL Expiration** - Set expiration dates on shortened URLs
-- 📈 **Analytics Dashboard** - Visual statistics and insights
-- 🐳 **Docker Deployment** - Containerized deployment
-- 💾 **Persistent Database** - MySQL/PostgreSQL integration
-- 🎨 **Frontend UI** - Web interface for URL shortening
-- 📤 **Bulk Operations** - Shorten multiple URLs at once
-- 🔗 **QR Code Generation** - Generate QR codes for short URLs
-- 🌍 **Custom Domain** - Use custom domain for shortened URLs
+-  **User Authentication** - User accounts and API keys
+-  **Custom Aliases** - Allow users to create custom short codes
+-  **URL Expiration** - Set expiration dates on shortened URLs
+-  **Analytics Dashboard** - Visual statistics and insights
+-  **Docker Deployment** - Containerized deployment
+-  **Persistent Database** - MySQL/PostgreSQL integration
+-  **Frontend UI** - Web interface for URL shortening
+-  **Bulk Operations** - Shorten multiple URLs at once
+-  **QR Code Generation** - Generate QR codes for short URLs
+-  **Custom Domain** - Use custom domain for shortened URLs
 
 ## Key Design Decisions
 
