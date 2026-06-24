@@ -126,7 +126,7 @@
 
 ---
 
-## 📊 Code Statistics
+##  Code Statistics
 
 ```
 Project Structure:
@@ -237,7 +237,7 @@ Build:
 
 ---
 
-## 📋 Checklist for GitHub Upload
+##  Checklist for GitHub Upload
 
 ```
 Pre-Push Checklist:
@@ -318,7 +318,7 @@ This project demonstrates:
 
 ---
 
-## 🔮 Future Enhancement Ideas
+##  Future Enhancement Ideas
 
 ### Short Term (v1.1)
 - [ ] Add URL expiration feature
